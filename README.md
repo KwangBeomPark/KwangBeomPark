@@ -1,109 +1,109 @@
+<p align="right">
+  <a href="README.md"><strong>English</strong></a> | <a href="README.ko.md">한국어</a>
+</p>
+
 # Kwang Beom Park
 
 **Finance Operations Manager | Office Workflow Automation | AI-Assisted Productivity Tools**
 
 Based in Warsaw, Poland.
 
-I am a finance professional with hands-on experience in finance operations, accounting, credit management, and sales administration.
+I am a finance operations professional who uses automation, programming, and AI-assisted development to solve real business workflow problems.
 
-Rather than pursuing software development as a profession, I use technology as a practical business tool to solve real workplace problems, eliminate repetitive tasks, and improve team productivity.
-
-My focus is on building lightweight automation solutions that create measurable business value in everyday office environments.
+My background is not traditional software engineering. My strength is understanding practical office work from the inside and building lightweight tools that reduce repetitive tasks, improve reporting efficiency, and support team productivity.
 
 ---
 
-## What I Do
+## Professional Focus
 
 - Finance Operations Management
-- Process Improvement & Standardization
+- Accounting, Credit Control, and Sales Administration
+- Business Process Improvement
 - Office Workflow Automation
-- AI-Assisted Productivity Solutions
-- Internal Business Tools Development
-- Reporting & Data Automation
+- Reporting and Data Automation
+- AI-Assisted Productivity Tool Development
 
 ---
 
-## Technical Interests
+## Technical Areas
 
 - Excel VBA
 - AutoHotkey
 - Python
 - C# / WinForms
-- OCR & Translation Tools
+- OCR and Screen Capture Tools
 - Desktop Productivity Applications
-- GitHub & Version Control
-- AI-Assisted Development
+- GitHub and Version Control
+- AI-Assisted Coding Workflow
 
 ---
 
-## Featured Projects
+## Featured Public Projects
 
-### SwiftDeck
+### [SwiftDeck](https://github.com/KwangBeomPark/SwiftDeck)
 
-A practical Windows productivity launcher designed to simplify repetitive office tasks and accelerate daily workflows.
+A Windows productivity launcher and workflow automation tool designed for everyday office users.
 
-Key areas:
+**Purpose**
 
-- Quick access to folders and applications
+To reduce repetitive folder navigation, application launching, and daily administrative friction in office work.
+
+**Key Features**
+
+- Quick access to frequently used folders and applications
 - Keyboard-driven workflow
-- Practical office automation
-- Real-world business productivity
-
-Repository:
-
-https://github.com/KwangBeomPark/SwiftDeck
+- Practical office automation support
+- Designed from real business workflow needs
 
 ---
 
-### ClipOCR-Pro
+### [ClipOCR-Pro](https://github.com/KwangBeomPark/ClipOCR-Pro)
 
-A screen capture, OCR, and translation utility designed for office users who frequently work with documents, screenshots, and multilingual information.
+A screen capture, OCR, and translation productivity tool for office workflows involving screenshots, documents, and multilingual information.
 
-Key areas:
+**Purpose**
 
-- Fast screen capture
-- OCR extraction
-- Translation workflow
-- Knowledge sharing
+To make capture, text extraction, translation, and information sharing faster in daily business operations.
 
-Repository:
+**Key Features**
 
-https://github.com/KwangBeomPark/ClipOCR-Pro
+- Fast screen capture workflow
+- OCR-based text extraction
+- Translation support
+- Practical document and information handling
 
 ---
 
 ## Professional Background
 
-Currently working in finance management with responsibility for:
+I work in finance management with responsibility across accounting, credit management, and sales administration operations.
 
-- Accounting Operations
-- Credit Management
-- Sales Administration
-- Team Leadership
-- Process Optimization
-
-My approach combines business understanding with practical automation to improve operational efficiency.
+My approach combines finance operations experience with practical automation skills to improve work quality, reduce manual effort, and create tools that can be used immediately by office teams.
 
 ---
 
-## Philosophy
+## Working Philosophy
 
 Technology should simplify work.
 
-The best automation is often not the most complex solution, but the one that saves people time every day.
+The best automation is often not the most complex solution. It is the solution that saves people time every day, fits naturally into existing workflows, and makes repetitive work easier to manage.
 
 ---
 
 ## Languages
 
-- Korean (Native)
-- English (Business)
-- Polish (Learning)
+- Korean: Native
+- English: Business
+- Polish: Learning
 
 ---
 
-## Connect
+## Location
 
-📍 Warsaw, Poland
+Warsaw, Poland
 
-[한국어 버전 보기](README.ko.md)
+---
+
+<p align="center">
+  Finance Operations × Office Automation × AI-Assisted Productivity
+</p>
