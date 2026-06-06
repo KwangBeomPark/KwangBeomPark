@@ -30,7 +30,6 @@ My background is not traditional software engineering. My strength is understand
 - Excel VBA
 - AutoHotkey
 - Python
-- C# / WinForms
 - OCR and Screen Capture Tools
 - Desktop Productivity Applications
 - GitHub and Version Control
