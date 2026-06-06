@@ -30,7 +30,6 @@
 - Excel VBA
 - AutoHotkey
 - Python
-- C# / WinForms
 - OCR 및 화면 캡처 도구
 - Windows 데스크톱 생산성 앱
 - GitHub 및 버전 관리
