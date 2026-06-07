@@ -8,9 +8,17 @@
 
 Based in Warsaw, Poland.
 
-I am a finance operations professional who uses automation, programming, and AI-assisted development to solve real business workflow problems.
+[LinkedIn](https://www.linkedin.com/in/kwangbeompark) · [SwiftDeck](https://github.com/KwangBeomPark/SwiftDeck) · [ClipOCR-Pro](https://github.com/KwangBeomPark/ClipOCR-Pro)
 
-My background is not traditional software engineering. My strength is understanding practical office work from the inside and building lightweight tools that reduce repetitive tasks, improve reporting efficiency, and support team productivity.
+---
+
+## About Me
+
+I combine finance operations experience with practical automation skills to build lightweight tools that reduce repetitive office work, improve reporting efficiency, and support team-level productivity.
+
+My background is not traditional software engineering. My strength is understanding practical office workflows from the inside and turning repetitive business tasks into simple tools that office users can adopt immediately.
+
+My projects focus on reducing manual work, shortening month-end closing preparation, improving document review speed, and making automation accessible to non-developer office users.
 
 ---
 
@@ -31,7 +39,7 @@ My background is not traditional software engineering. My strength is understand
 - AutoHotkey
 - Python
 - OCR and Screen Capture Tools
-- Desktop Productivity Applications
+- Windows Desktop Productivity Applications
 - GitHub and Version Control
 - AI-Assisted Coding Workflow
 
@@ -41,35 +49,37 @@ My background is not traditional software engineering. My strength is understand
 
 ### [SwiftDeck](https://github.com/KwangBeomPark/SwiftDeck)
 
-A Windows productivity launcher and workflow automation tool designed for everyday office users.
+A portable Windows productivity command center for finance managers and office professionals.
 
 **Purpose**
 
-To reduce repetitive folder navigation, application launching, and daily administrative friction in office work.
+To reduce repetitive folder navigation, prompt execution, text entry, and daily administrative friction in office work.
 
 **Key Features**
 
-- Quick access to frequently used folders and applications
-- Keyboard-driven workflow
-- Practical office automation support
-- Designed from real business workflow needs
+- 1-click access to frequently used folders and shared paths
+- Prompt and SQL text automation
+- Hotstrings for standard emails, reports, and routine phrases
+- Key remapping for practical workflow shortcuts
+- Team deployment through shared `.ini` configuration files
 
 ---
 
 ### [ClipOCR-Pro](https://github.com/KwangBeomPark/ClipOCR-Pro)
 
-A screen capture, OCR, and translation productivity tool for office workflows involving screenshots, documents, and multilingual information.
+A portable screen capture, OCR, selected-text translation, and image workflow tool for office document review.
 
 **Purpose**
 
-To make capture, text extraction, translation, and information sharing faster in daily business operations.
+To make screen capture, document comparison, selected-text translation, image translation, and information sharing faster in daily business operations.
 
 **Key Features**
 
-- Fast screen capture workflow
-- OCR-based text extraction
-- Translation support
-- Practical document and information handling
+- Fast screen area capture and always-on-top floating reference windows
+- Annotation support for document and evidence review
+- Selected-text translation workflow
+- Image translation support for scanned documents and foreign-language attachments
+- Image resize, copy, save, and reuse workflow for reports and emails
 
 ---
 
@@ -97,9 +107,11 @@ The best automation is often not the most complex solution. It is the solution t
 
 ---
 
-## Location
+## Contact
 
-Warsaw, Poland
+- LinkedIn: [www.linkedin.com/in/kwangbeompark](https://www.linkedin.com/in/kwangbeompark)
+- GitHub: [@KwangBeomPark](https://github.com/KwangBeomPark)
+- Location: Warsaw, Poland
 
 ---
 
