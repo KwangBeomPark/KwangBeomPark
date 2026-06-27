@@ -8,7 +8,7 @@
 
 폴란드 바르샤바에서 근무하고 있습니다.
 
-[LinkedIn](https://www.linkedin.com/in/kwangbeompark) · [SwiftDeck](https://github.com/KwangBeomPark/SwiftDeck) · [ClipOCR-Pro](https://github.com/KwangBeomPark/ClipOCR-Pro)
+[LinkedIn](https://www.linkedin.com/in/kwangbeompark) · [SwiftDeck](https://github.com/KwangBeomPark/SwiftDeck) · [ClipOCR-Pro](https://github.com/KwangBeomPark/ClipOCR-Pro) · [EML Viewer](https://github.com/KwangBeomPark/eml-viewer) · [FileOps-Hub](https://github.com/KwangBeomPark/FileOps-Hub)
 
 ---
 
@@ -18,7 +18,7 @@
 
 전통적인 소프트웨어 개발자가 되기 위한 목적보다는, 현업의 업무 흐름을 내부에서 이해하고 반복적으로 발생하는 비효율을 실무자가 바로 사용할 수 있는 도구로 전환하는 데 강점이 있습니다.
 
-제가 만드는 도구는 수작업 감소, 월말 결산 준비 시간 단축, 문서 검토 속도 개선, 비개발자도 사용할 수 있는 자동화 환경 구축에 초점을 둡니다.
+제가 만드는 도구는 수작업 감소, 문서 검토 속도 개선, 재무·보고 업무 지원, 비개발자도 사용할 수 있는 자동화 환경 구축에 초점을 둡니다.
 
 ---
 
@@ -29,6 +29,7 @@
 - 업무 프로세스 개선
 - 사무 업무 자동화
 - 보고서 및 데이터 자동화
+- 문서, 이메일, 파일 업무흐름 자동화
 - AI 활용 생산성 도구 개발
 
 ---
@@ -39,6 +40,8 @@
 - AutoHotkey
 - Python
 - OCR 및 화면 캡처 도구
+- 이메일 파일 보기 및 HTML 렌더링
+- 파일 동기화, 문서 변환, 작업 자동화
 - Windows 데스크톱 생산성 앱
 - GitHub 및 버전 관리
 - AI 활용 코딩 워크플로우
@@ -80,6 +83,44 @@
 - 선택 텍스트 번역 워크플로우
 - 스캔 문서 및 외국어 첨부 파일을 위한 이미지 번역 지원
 - 보고서와 이메일 작성을 위한 이미지 리사이즈, 복사, 저장, 재사용 워크플로우
+
+---
+
+### [EML Viewer](https://github.com/KwangBeomPark/eml-viewer)
+
+`.eml` 이메일 파일을 일반 데스크톱 창처럼 열고 검토할 수 있도록 만든 Windows 중심 이메일 뷰어입니다.
+
+**목적**
+
+업무 중 이메일 파일을 검토할 때 창 제어, 메타데이터 확인, HTML 본문 렌더링, 인라인 이미지 표시, 첨부파일 저장을 더 편하게 처리하는 것입니다.
+
+**주요 기능**
+
+- 앱 또는 파일 연결을 통한 `.eml` 파일 열기
+- 제목, 발신자, 수신자, 날짜 표시
+- 일반 텍스트 및 HTML 본문 보기
+- Qt WebEngine 기반 HTML 이메일 렌더링
+- 인라인 이미지 처리 및 첨부파일 저장
+- 개인정보 보호를 위한 원격 이미지 기본 차단
+
+---
+
+### [FileOps-Hub](https://github.com/KwangBeomPark/FileOps-Hub)
+
+공유 파일 배포, 문서 변환, OCR 기반 정산 자료 전처리, 예약 실행을 지원하는 Windows 통합 데이터·파일 유틸리티입니다.
+
+**목적**
+
+팀 간 최신 업무 자료를 동기화하고, 문서를 저장소 호환 형식으로 변환하며, 정산 증빙 전처리와 실행 결과 보고를 지원하는 것입니다.
+
+**주요 기능**
+
+- 공유 업무 자료 폴더 동기화
+- Excel, PowerPoint, Word, PDF 변환 워크플로우
+- EML 및 PDF 이미지 변환
+- OCR 기반 정산 문서 파일명 정리
+- 예약 실행 및 SMTP 결과 보고
+- 로컬 설정, 로그, 암호화된 인증정보 관리
 
 ---
 
