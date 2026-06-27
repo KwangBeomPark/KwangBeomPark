@@ -8,7 +8,7 @@
 
 Based in Warsaw, Poland.
 
-[LinkedIn](https://www.linkedin.com/in/kwangbeompark) · [SwiftDeck](https://github.com/KwangBeomPark/SwiftDeck) · [ClipOCR-Pro](https://github.com/KwangBeomPark/ClipOCR-Pro)
+[LinkedIn](https://www.linkedin.com/in/kwangbeompark) · [SwiftDeck](https://github.com/KwangBeomPark/SwiftDeck) · [ClipOCR-Pro](https://github.com/KwangBeomPark/ClipOCR-Pro) · [EML Viewer](https://github.com/KwangBeomPark/eml-viewer) · [FileOps-Hub](https://github.com/KwangBeomPark/FileOps-Hub)
 
 ---
 
@@ -18,7 +18,7 @@ I combine finance operations experience with practical automation skills to buil
 
 My background is not traditional software engineering. My strength is understanding practical office workflows from the inside and turning repetitive business tasks into simple tools that office users can adopt immediately.
 
-My projects focus on reducing manual work, shortening month-end closing preparation, improving document review speed, and making automation accessible to non-developer office users.
+My projects focus on reducing manual work, improving document review speed, supporting finance/reporting workflows, and making automation accessible to non-developer office users.
 
 ---
 
@@ -29,6 +29,7 @@ My projects focus on reducing manual work, shortening month-end closing preparat
 - Business Process Improvement
 - Office Workflow Automation
 - Reporting and Data Automation
+- Document, Email, and File Workflow Automation
 - AI-Assisted Productivity Tool Development
 
 ---
@@ -39,6 +40,8 @@ My projects focus on reducing manual work, shortening month-end closing preparat
 - AutoHotkey
 - Python
 - OCR and Screen Capture Tools
+- Email File Viewing and HTML Rendering
+- File Sync, Document Conversion, and Task Automation
 - Windows Desktop Productivity Applications
 - GitHub and Version Control
 - AI-Assisted Coding Workflow
@@ -80,6 +83,44 @@ To make screen capture, document comparison, selected-text translation, image tr
 - Selected-text translation workflow
 - Image translation support for scanned documents and foreign-language attachments
 - Image resize, copy, save, and reuse workflow for reports and emails
+
+---
+
+### [EML Viewer](https://github.com/KwangBeomPark/eml-viewer)
+
+A Windows-first desktop app for opening and reviewing `.eml` email files with a practical desktop-window experience.
+
+**Purpose**
+
+To make email file review easier in daily office work by improving window handling, metadata visibility, HTML rendering, inline image support, and attachment saving.
+
+**Key Features**
+
+- Open `.eml` files directly from the app or file association
+- Display subject, sender, recipients, and date
+- Show plain text and HTML body views
+- Render HTML email bodies with Qt WebEngine
+- Resolve inline images and save attachments
+- Block remote images by default for privacy
+
+---
+
+### [FileOps-Hub](https://github.com/KwangBeomPark/FileOps-Hub)
+
+An integrated Windows data and file utility for shared file distribution, document conversion, OCR-based preprocessing, and scheduled task execution.
+
+**Purpose**
+
+To support office teams by synchronizing working files, converting documents into storage-friendly formats, preparing settlement evidence, and sending execution reports.
+
+**Key Features**
+
+- Folder synchronization for shared work materials
+- Excel, PowerPoint, Word, and PDF conversion workflows
+- EML and PDF to image conversion
+- OCR-based file renaming for settlement documents
+- Scheduled task execution and SMTP result reporting
+- Local settings, logs, and encrypted credentials handling
 
 ---
 
