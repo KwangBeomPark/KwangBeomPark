@@ -8,7 +8,9 @@
 
 Based in Warsaw, Poland.
 
-[LinkedIn](https://www.linkedin.com/in/kwangbeompark) · [SwiftDeck](https://github.com/KwangBeomPark/SwiftDeck) · [ClipOCR-Pro](https://github.com/KwangBeomPark/ClipOCR-Pro) · [EML Viewer](https://github.com/KwangBeomPark/eml-viewer) · [FileOps-Hub](https://github.com/KwangBeomPark/FileOps-Hub)
+I build practical Windows-first automation tools for finance, reporting, document review, email handling, and everyday office workflows.
+
+[LinkedIn](https://www.linkedin.com/in/kwangbeompark) · [SwiftDeck](https://github.com/KwangBeomPark/SwiftDeck) · [ClipOCR-Pro](https://github.com/KwangBeomPark/ClipOCR-Pro) · [LocalDataMart](https://github.com/KwangBeomPark/LocalDataMart) · [EML Viewer](https://github.com/KwangBeomPark/eml-viewer) · [FileOps-Hub](https://github.com/KwangBeomPark/FileOps-Hub)
 
 ---
 
@@ -16,9 +18,18 @@ Based in Warsaw, Poland.
 
 I combine finance operations experience with practical automation skills to build lightweight tools that reduce repetitive office work, improve reporting efficiency, and support team-level productivity.
 
-My background is not traditional software engineering. My strength is understanding practical office workflows from the inside and turning repetitive business tasks into simple tools that office users can adopt immediately.
+My strength is understanding practical office workflows from the inside and turning recurring business tasks into simple tools that office users can adopt immediately.
 
-My projects focus on reducing manual work, improving document review speed, supporting finance/reporting workflows, and making automation accessible to non-developer office users.
+My projects focus on reducing manual work, improving document review speed, supporting finance and reporting workflows, and making automation accessible to non-developer office users.
+
+---
+
+## What I Build
+
+- Small, practical tools that remove repetitive office friction
+- Finance and reporting utilities built around real operational workflows
+- Document, email, OCR, and file-processing workflows for Windows users
+- AI-assisted productivity tools that help teams work faster without changing their whole environment
 
 ---
 
@@ -49,6 +60,24 @@ My projects focus on reducing manual work, improving document review speed, supp
 ---
 
 ## Featured Public Projects
+
+### [LocalDataMart](https://github.com/KwangBeomPark/LocalDataMart)
+
+A lightweight local data mart builder for turning monthly Excel raw data into clean CSV tables and summary report views.
+
+**Purpose**
+
+To help finance and reporting users consolidate recurring Excel-based data without introducing a heavy database stack or changing their existing reporting workflow.
+
+**Key Features**
+
+- Excel config-driven column selection and mapping
+- Clean table generation from monthly raw Excel files
+- Summary report view CSV outputs for analysis and reporting
+- Reconciliation checks between raw data and generated outputs
+- CLI workflow with a minimal tkinter desktop UI
+
+---
 
 ### [SwiftDeck](https://github.com/KwangBeomPark/SwiftDeck)
 
