@@ -8,17 +8,28 @@
 
 폴란드 바르샤바에서 근무하고 있습니다.
 
-[LinkedIn](https://www.linkedin.com/in/kwangbeompark) · [SwiftDeck](https://github.com/KwangBeomPark/SwiftDeck) · [ClipOCR-Pro](https://github.com/KwangBeomPark/ClipOCR-Pro) · [EML Viewer](https://github.com/KwangBeomPark/eml-viewer) · [FileOps-Hub](https://github.com/KwangBeomPark/FileOps-Hub)
+재무, 보고, 문서 검토, 이메일 처리, 일상적인 사무 흐름을 더 빠르게 만들기 위한 Windows 중심 실무 자동화 도구를 만들고 있습니다.
+
+[LinkedIn](https://www.linkedin.com/in/kwangbeompark) · [SwiftDeck](https://github.com/KwangBeomPark/SwiftDeck) · [ClipOCR-Pro](https://github.com/KwangBeomPark/ClipOCR-Pro) · [LocalDataMart](https://github.com/KwangBeomPark/LocalDataMart) · [EML Viewer](https://github.com/KwangBeomPark/eml-viewer) · [FileOps-Hub](https://github.com/KwangBeomPark/FileOps-Hub)
 
 ---
 
-## About Me
+## 소개
 
 재무 운영 경험과 실무 자동화 역량을 결합하여 반복 업무를 줄이고, 보고 효율을 높이며, 팀 단위 생산성을 개선하는 경량 업무 도구를 만들고 있습니다.
 
-전통적인 소프트웨어 개발자가 되기 위한 목적보다는, 현업의 업무 흐름을 내부에서 이해하고 반복적으로 발생하는 비효율을 실무자가 바로 사용할 수 있는 도구로 전환하는 데 강점이 있습니다.
+현업의 업무 흐름을 내부에서 이해하고, 반복적으로 발생하는 비효율을 실무자가 바로 사용할 수 있는 도구로 전환하는 데 강점이 있습니다.
 
 제가 만드는 도구는 수작업 감소, 문서 검토 속도 개선, 재무·보고 업무 지원, 비개발자도 사용할 수 있는 자동화 환경 구축에 초점을 둡니다.
+
+---
+
+## 만들고 있는 도구
+
+- 반복적인 사무 마찰을 줄이는 작고 실용적인 도구
+- 실제 재무 운영 흐름을 기준으로 만든 보고 및 데이터 처리 유틸리티
+- Windows 사용자를 위한 문서, 이메일, OCR, 파일 처리 워크플로우
+- 팀이 기존 업무 환경을 크게 바꾸지 않고 더 빠르게 일할 수 있도록 돕는 AI 활용 생산성 도구
 
 ---
 
@@ -49,6 +60,24 @@
 ---
 
 ## 공개 프로젝트
+
+### [LocalDataMart](https://github.com/KwangBeomPark/LocalDataMart)
+
+월별 Excel Raw Data를 정제된 CSV 테이블과 요약 리포트 View로 변환하는 경량 로컬 데이터마트 빌더입니다.
+
+**목적**
+
+재무 및 보고 실무자가 무거운 데이터베이스 스택을 도입하지 않고도 반복적인 Excel 기반 데이터를 정리하고 기존 보고 흐름에 바로 활용할 수 있도록 돕는 것입니다.
+
+**주요 기능**
+
+- Excel Config 기반 컬럼 선택 및 표준 매핑
+- 월별 Raw Excel 파일의 Clean Table 생성
+- 분석 및 보고용 Summary Report View CSV 출력
+- 원본 데이터와 산출물 간 Reconciliation 검증
+- CLI 실행 흐름과 tkinter 기반 최소 데스크톱 UI 제공
+
+---
 
 ### [SwiftDeck](https://github.com/KwangBeomPark/SwiftDeck)
 
