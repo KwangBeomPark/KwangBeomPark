@@ -1,97 +1,96 @@
-<p align="right">
-  <a href="README.md"><strong>English</strong></a> | <a href="README.ko.md">한국어</a>
-</p>
+*Read this in other languages: [English](README.md), [한국어](README.ko.md), [Polski](README.pl.md)*
 
 # Kwang Beom Park
 
-**Senior Finance & Commercial Operations Leader | Finance Transformation | Business Control | Data & AI-Assisted Automation**
+**Senior Finance Director & Commercial Controller | Enterprise FinOps & Operations Transformation**  
+*Based in Warsaw, Poland*
 
-Based in Warsaw, Poland.
+> **Bridging Financial Governance & Hands-On Engineering**  
+> *Finance Director and Commercial Controller driving ledger integrity, tax compliance, and automated operations across European business units.*  
+> `> "Building operational certainty from raw transaction evidence to executive reporting."`
 
-I lead finance-related operations across accounting, credit control, and sales administration, with a background in financial planning, commercial analysis, and business control. Alongside finance leadership, I design practical automation and data tools for recurring office and reporting workflows.
+<p align="center">
+  <img src="assets/finops_ecosystem_blueprint.svg" width="100%" alt="Enterprise FinOps & Commercial Operations Ecosystem Blueprint">
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/kwangbeompark) · [Data Refinery](https://github.com/KwangBeomPark/04_DataRefinery) · [Stepwise](https://github.com/KwangBeomPark/06_Stepwise) · [SwiftDeck](https://github.com/KwangBeomPark/02_SwiftDeck) · [ClipOCR-Pro](https://github.com/KwangBeomPark/01_ClipOCR-Pro) · [FileOps Hub](https://github.com/KwangBeomPark/05_FileOperation) · [EML Viewer](https://github.com/KwangBeomPark/07_eml-viewer)
-
----
-
-## Professional Background
-
-My work connects **finance operations, commercial finance, and process improvement**. I understand recurring challenges in accounting, credit management, sales administration, profitability analysis, and management reporting—and use that domain knowledge to shape practical solutions.
-
-My approach is **business problem first, technology second**: improve data integrity, reduce repetitive work, and make existing processes easier to operate and review. The projects below are examples of independently developed tools; repository functionality should not be interpreted as a claim of enterprise-wide deployment or quantified business savings.
-
-### Focus Areas
-
-- Finance leadership: accounting, credit control, sales administration, and cross-functional operations
-- Commercial finance, business control, profitability analysis, and management reporting
-- Finance transformation, process standardization, internal controls, and data-quality checks
-- Reporting and data automation with Excel VBA, Python, SQL, DuckDB, and Power Query
-- Desktop workflow automation and AI-assisted software development
+[LinkedIn Profile](https://www.linkedin.com/in/kwangbeompark) · [GitHub Repositories](https://github.com/KwangBeomPark?tab=repositories) · [Contact](mailto:parkkb@gmail.com)
 
 ---
 
-## Featured Public Projects
+## 🏛️ Executive Summary & Leadership Philosophy
 
-### [Data Refinery](https://github.com/KwangBeomPark/04_DataRefinery)
-**Finance-oriented data preparation and publishing**
+I am a senior finance leader with comprehensive experience across **financial accounting, commercial business control, credit risk management, and tax compliance (VAT 23% / JPK_V7 / IFRS)** in multinational European operations.
 
-A Windows desktop application for repairing and normalizing difficult CSV/Excel data, managing period-based datasets, and producing analysis-ready outputs.
+Alongside financial leadership, I operate with a distinct engineering mindset: **"Business problem first, technology second."** Rather than relying on rigid, multi-million-euro enterprise software or external IT outsourcing that rarely fits local operational nuances, I design and deploy lightweight, audit-ready automation pipelines directly from within the finance organization.
 
-- Handles European number formats, text encodings, and malformed delimited files
-- Aggregates datasets and validates period, row counts, and numeric totals before publishing
-- Uses **Python, PySide6, and DuckDB**, with Excel/Power Query-compatible outputs
-- Supports promotion-rule normalization and daily time-series generation
-
-### [Stepwise](https://github.com/KwangBeomPark/06_Stepwise)
-**Guarded desktop/ERP workflow automation**
-
-A data-driven automation tool for repetitive work in legacy ERP interfaces and internal portals.
-
-- Reads Excel/CSV records and maps values to desktop actions
-- Uses **Python, PySide6, and OpenCV** to verify screen states before and after steps
-- Includes fail-fast execution, row-level logs, and recovery/resume features
-
-### [SwiftDeck](https://github.com/KwangBeomPark/02_SwiftDeck)
-**Office workflow command center**
-
-An AutoHotkey v2 utility for folder shortcuts, reusable prompts, SQL/text input, hotstrings, and keyboard automation, with portable team configuration.
-
-### [ClipOCR-Pro](https://github.com/KwangBeomPark/01_ClipOCR-Pro)
-**Capture, review, OCR, and translation**
-
-An AutoHotkey v2 tool for screen capture, floating references, annotation, local OCR, and selected-text or image-translation workflows.
-
-### [FileOps Hub](https://github.com/KwangBeomPark/05_FileOperation)
-**Document and file workflow automation**
-
-A Windows utility for file synchronization, Office/PDF/EML conversions, OCR-based document naming, scheduled tasks, and execution reporting.
-
-### [EML Viewer](https://github.com/KwangBeomPark/07_eml-viewer)
-**Email document review**
-
-A Windows application for viewing `.eml` and Outlook `.msg` files, rendering HTML messages, handling inline images and attachments, and translating message content.
+### Core Leadership Tenets:
+- **Ledger-Grade Data Integrity**: Preventing transactional anomalies and calculation errors at the root level before they reach the general ledger.
+- **Pragmatic Internal Controls**: Designing automated preventive controls (e.g., approval matrices, visual field verification) that eliminate human error without administrative bureaucracy.
+- **TCO & Operational Agility**: Delivering robust, Non-Admin desktop pipelines that comply strictly with enterprise security policies and GDPR without requiring external cloud data export.
 
 ---
 
-## Technical Toolkit
+## 💼 Core Functional Portfolio Matrix (PL Suite)
 
-**Finance & data:** Excel VBA · Power Query · SQL · DuckDB · SQLite · Data validation & reconciliation  
-**Automation:** Python · AutoHotkey v2 · PySide6 · OpenCV · OCR · Windows/Office workflows  
-**Development practices:** GitHub · Automated checks · AI-assisted implementation and review
+The **PL Suite (01–08)** and extended intelligence platforms represent an integrated operational ecosystem engineered to safeguard data integrity and eliminate operational friction across the entire financial cycle.
 
-These projects reflect hands-on problem-solving alongside my finance career, not a change of professional track into full-time software engineering.
+| Functional Mandate | Solution | Focus & Key Operational Impact | Core Architecture |
+| :--- | :--- | :--- | :--- |
+| **I. Close Acceleration & Ledger Integrity** | [**04_DataRefinery**](https://github.com/KwangBeomPark/04_DataRefinery) | **In-Process DuckDB OLAP & European Decimal Guard**<br>Eliminates European decimal point/comma errors (`12,34` vs `12.34`) and normalizes complex promotion datasets for clean period-end settlement. | Python · PySide6 · DuckDB |
+| | [**06_Stepwise**](https://github.com/KwangBeomPark/06_Stepwise) | **Guarded ERP / SAP GUI Posting Engine**<br>Automates repetitive journal voucher and master data entry with OpenCV visual verification, preventing keying mistakes and duplicate postings. | Python · PySide6 · OpenCV |
+| | [**02_SwiftDeck**](https://github.com/KwangBeomPark/02_SwiftDeck) | **FinOps & Month-End Close Command Center**<br>Standardizes monthly close paths, VAT 23% reporting folders, and ERP SQL query shortcuts via a lightweight team hotkey interface. | AutoHotkey v2 · Portable INI |
+| **II. Internal Controls & Audit Readiness** | [**08_OutlookTemplate**](https://github.com/KwangBeomPark/08_OutlookTemplate) | **Delegation of Authority (30,000 PLN) & CC Guard**<br>Enforces executive approval routing (Team Lead vs CFO) and pre-populates standardized HTML bodies to prevent omitted stakeholder copies. | AutoHotkey v2 · COM / UI Automation |
+| | [**05_FileOperation**](https://github.com/KwangBeomPark/05_FileOperation) | **Audit Evidence Archiving & Automated Folder Sync**<br>Preserves original file timestamps during format conversion and automates folder routing for accounting audit trails. | Python · PySide6 · Office COM |
+| | [**07_eml-viewer**](https://github.com/KwangBeomPark/07_eml-viewer) | **Email Evidence Sandbox & Inspection Viewer**<br>Opens `.eml` and `.msg` evidence independently of Office licenses, rendering HTML bodies faithfully while blocking remote tracking beacons. | Python · PySide6 · Qt WebEngine |
+| | [**01_ClipOCR-Pro**](https://github.com/KwangBeomPark/01_ClipOCR-Pro) | **On-Device OCR & Voucher Reconciliation**<br>Zero-cloud local screen capture and multi-language OCR (EN/KO/PL) for reconciling ERP screens against bank statements and invoices. | AutoHotkey v2 · Windows OCR |
+| **III. Executive Reporting Governance** | [**03_vba_PPT_Addin**](https://github.com/KwangBeomPark/03_vba_PPT_Addin) | **Board Reporting Governance & Confidential Dispatch**<br>Standardizes executive PowerPoint slide metrics, unit formats, and enables selective confidential slide email distribution. | Pure VBA · PowerPoint Add-in |
+| **IV. Commercial Market Intelligence** | [**09_Market_Retail_Intelligence**](https://github.com/KwangBeomPark/09_Market_Retail_Intelligence) | **E-Commerce Price Monitoring & Margin Defense**<br>Tracks daily retail prices, partner promotion agreements, and terms across Polish e-commerce platforms to protect gross margins. | Python · Data Pipeline |
 
 ---
 
-## Languages & Contact
+## 🛠️ Technical & Governance Competencies
 
-- **Languages:** Korean (native), English (business), Polish (basic)
-- **Location:** Warsaw, Poland
-- **LinkedIn:** [linkedin.com/in/kwangbeompark](https://www.linkedin.com/in/kwangbeompark)
-- **GitHub:** [@KwangBeomPark](https://github.com/KwangBeomPark)
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                          TECHNO-FINANCE TOOLKIT                             │
+├──────────────────────────────┬──────────────────────────────────────────────┤
+│ Financial Domain             │ IFRS · Polish Tax (VAT 23%, JPK_V7) · SOX    │
+│ & Governance                 │ Delegation of Authority · Balance Sheet Rec  │
+├──────────────────────────────┼──────────────────────────────────────────────┤
+│ Data Analysis                │ DuckDB (In-Process OLAP) · SQL · Excel VBA   │
+│ & Data Pipelines             │ Power Query · SQLite · Relational Joins      │
+├──────────────────────────────┼──────────────────────────────────────────────┤
+│ Automation & UI              │ Python 3.12+ · PySide6 (Qt) · AutoHotkey v2  │
+│                              │ OpenCV Computer Vision · Windows UI Auto     │
+├──────────────────────────────┼──────────────────────────────────────────────┤
+│ Security & Compliance        │ Official CA Authenticode Code Signing        │
+│                              │ Zero-Cloud GDPR Compliance · Non-Admin Ready │
+└──────────────────────────────┴──────────────────────────────────────────────┘
+```
+
+- **Engineering Governance**: All distributed executable packages are signed with an official Code Signing Certificate (Certum Open Source Developer CA), seamlessly passing **Windows 11 Smart App Control** and enterprise endpoint security.
+- **Offline-First Security**: Financial and operational data remains strictly on-device in volatile local memory, ensuring 100% compliance with corporate secrecy and European data privacy laws.
+
+---
+
+## 🌍 Regional Focus & Spoken Languages
+
+- **Current Location**: Warsaw, Poland (Resident with deep understanding of local statutory accounting and business culture)
+- **Languages**:
+  - **Korean**: Native
+  - **English**: Fluent / Professional Business
+  - **Polish**: Professional Working Proficiency (Daily operational communications, tax & legal terminology)
+
+---
+
+## 📬 Executive Contact
+
+- **LinkedIn**: [linkedin.com/in/kwangbeompark](https://www.linkedin.com/in/kwangbeompark)
+- **GitHub**: [@KwangBeomPark](https://github.com/KwangBeomPark)
+- **Email**: [parkkb@gmail.com](mailto:parkkb@gmail.com)
 
 ---
 
 <p align="center">
-  Finance Leadership × Commercial Business Control × Data & Process Automation
+  <em>Finance Leadership × Commercial Business Control × Data &amp; Process Automation</em>
 </p>
