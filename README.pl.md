@@ -2,18 +2,18 @@
 
 # Kwang Beom Park
 
-**Dyrektor Finansowy i Kontroler Biznesowy | Architekt FinOps i Transformacji Cyfrowej**  
+**Senior Finance Manager (Finance Head) | Architekt FinOps i Transformacji Cyfrowej**  
 *Lokalizacja: Warszawa, Polska*
 
 > **Połączenie ładu finansowego z inżynierią operacyjną**  
-> *Dyrektor Finansowy i Kontroler Biznesowy wdrażający spójność księgową, zgodność podatkową i automatyzację procesów w europejskiej spółce.*  
+> *Senior Finance Manager (Finance Head) wdrażający spójność księgową, zgodność podatkową i automatyzację procesów w europejskiej spółce.*  
 > `> "Budowanie pewności operacyjnej od pierwotnego dowodu księgowego po raporty dla zarządu."`
 
 <p align="center">
   <img src="assets/finops_ecosystem_blueprint.svg" width="100%" alt="Enterprise FinOps & Commercial Operations Ecosystem Blueprint">
 </p>
 
-[Profil LinkedIn](https://www.linkedin.com/in/kwangbeompark) · [Wszystkie repozytoria GitHub](https://github.com/KwangBeomPark?tab=repositories) · [Kontakt e-mail](mailto:parkkb@gmail.com)
+[Profil LinkedIn](https://www.linkedin.com/in/kwangbeompark) · [Wszystkie repozytoria GitHub](https://github.com/KwangBeomPark?tab=repositories) · [Kontakt e-mail](mailto:park.kwangbeomi@gmail.com)
 
 ---
 
@@ -87,7 +87,7 @@ Pakiet **PL Suite (01–08)** oraz platformy analityczne tworzą zintegrowany ek
 
 - **LinkedIn**: [linkedin.com/in/kwangbeompark](https://www.linkedin.com/in/kwangbeompark)
 - **GitHub**: [@KwangBeomPark](https://github.com/KwangBeomPark)
-- **E-mail**: [parkkb@gmail.com](mailto:parkkb@gmail.com)
+- **E-mail**: [park.kwangbeomi@gmail.com](mailto:park.kwangbeomi@gmail.com)
 
 ---
 

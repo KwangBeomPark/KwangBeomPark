@@ -2,18 +2,18 @@
 
 # 박광범 (Kwang Beom Park)
 
-**재무 디렉터 & 커머셜 비즈니스 컨트롤러 | 엔터프라이즈 FinOps & 오퍼레이션 DX 아키텍트**  
+**Senior Finance Manager (Finance Head) | 엔터프라이즈 FinOps & 오퍼레이션 DX 아키텍트**  
 *폴란드 바르샤바 소재 (Warsaw, Poland)*
 
 > **재무 거버넌스와 현장 엔지니어링의 결합**  
-> *유럽 현지 법인의 장부 무결성, 세무 컴플라이언스, 결산 자동화를 현장에서 직접 실현하는 재무 디렉터 & 커머셜 컨트롤러*  
+> *유럽 현지 법인의 장부 무결성, 세무 컴플라이언스, 결산 자동화를 현장에서 직접 실현하는 Senior Finance Manager (Finance Head)*  
 > `> "원천 전표 증빙에서 최고 경영진 보고까지, 오퍼레이션의 확실성을 직접 구축합니다."`
 
 <p align="center">
   <img src="assets/finops_ecosystem_blueprint.svg" width="100%" alt="Enterprise FinOps & Commercial Operations Ecosystem Blueprint">
 </p>
 
-[LinkedIn 프로필](https://www.linkedin.com/in/kwangbeompark) · [GitHub 전체 저장소](https://github.com/KwangBeomPark?tab=repositories) · [이메일 문의](mailto:parkkb@gmail.com)
+[LinkedIn 프로필](https://www.linkedin.com/in/kwangbeompark) · [GitHub 전체 저장소](https://github.com/KwangBeomPark?tab=repositories) · [이메일 문의](mailto:park.kwangbeomi@gmail.com)
 
 ---
 
@@ -87,7 +87,7 @@
 
 - **LinkedIn**: [linkedin.com/in/kwangbeompark](https://www.linkedin.com/in/kwangbeompark)
 - **GitHub**: [@KwangBeomPark](https://github.com/KwangBeomPark)
-- **Email**: [parkkb@gmail.com](mailto:parkkb@gmail.com)
+- **Email**: [park.kwangbeomi@gmail.com](mailto:park.kwangbeomi@gmail.com)
 
 ---
 

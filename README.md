@@ -2,18 +2,18 @@
 
 # Kwang Beom Park
 
-**Senior Finance Director & Commercial Controller | Enterprise FinOps & Operations Transformation**  
+**Senior Finance Manager (Finance Head) | Enterprise FinOps & Operations Transformation**  
 *Based in Warsaw, Poland*
 
 > **Bridging Financial Governance & Hands-On Engineering**  
-> *Finance Director and Commercial Controller driving ledger integrity, tax compliance, and automated operations across European business units.*  
+> *Senior Finance Manager (Finance Head) driving ledger integrity, tax compliance, and automated operations across European business units.*  
 > `> "Building operational certainty from raw transaction evidence to executive reporting."`
 
 <p align="center">
   <img src="assets/finops_ecosystem_blueprint.svg" width="100%" alt="Enterprise FinOps & Commercial Operations Ecosystem Blueprint">
 </p>
 
-[LinkedIn Profile](https://www.linkedin.com/in/kwangbeompark) · [GitHub Repositories](https://github.com/KwangBeomPark?tab=repositories) · [Contact](mailto:parkkb@gmail.com)
+[LinkedIn Profile](https://www.linkedin.com/in/kwangbeompark) · [GitHub Repositories](https://github.com/KwangBeomPark?tab=repositories) · [Contact](mailto:park.kwangbeomi@gmail.com)
 
 ---
 
@@ -87,7 +87,7 @@ The **PL Suite (01–08)** and extended intelligence platforms represent an inte
 
 - **LinkedIn**: [linkedin.com/in/kwangbeompark](https://www.linkedin.com/in/kwangbeompark)
 - **GitHub**: [@KwangBeomPark](https://github.com/KwangBeomPark)
-- **Email**: [parkkb@gmail.com](mailto:parkkb@gmail.com)
+- **Email**: [park.kwangbeomi@gmail.com](mailto:park.kwangbeomi@gmail.com)
 
 ---
 
