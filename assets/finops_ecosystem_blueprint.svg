@@ -98,7 +98,7 @@
       <rect width="210" height="62" rx="7" fill="url(#bp-sub-grad)" stroke="#0369a1" stroke-width="1"/>
       <text x="12" y="24" fill="#f8fafc" font-size="11.5" font-weight="700">📧 08_OutlookTemplate</text>
       <text x="12" y="40" fill="#7dd3fc" font-size="10">Approval Routing &amp; CC Guard</text>
-      <text x="12" y="53" fill="#64748b" font-size="9">30,000 PLN threshold matrix</text>
+      <text x="12" y="53" fill="#64748b" font-size="9">Approval threshold matrix</text>
     </g>
 
     <!-- App 06: Stepwise -->

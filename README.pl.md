@@ -39,7 +39,7 @@ Pakiet **PL Suite (01–08)** oraz platformy analityczne tworzą zintegrowany ek
 | **I. Przyspieszenie zamknięcia i spójność ksiąg** | [**04_DataRefinery**](https://github.com/KwangBeomPark/04_DataRefinery) | **Silnik OLAP DuckDB i ochrona formatu dziesiętnego**<br>Eliminuje błędy wynikające z europejskiego separatora dziesiętnego (przecinek `,` vs kropka `.`) oraz normalizuje złożone dane promocyjne na potrzeby rozliczeń okresowych. | Python · PySide6 · DuckDB |
 | | [**06_Stepwise**](https://github.com/KwangBeomPark/06_Stepwise) | **Bezpieczny silnik księgowań w ERP / SAP GUI**<br>Automatyzuje powtarzalne wprowadzanie dekretów i danych podstawowych z wizualną weryfikacją stanu ekranu przez OpenCV, zapobiegając pomyłkom i duplikatom. | Python · PySide6 · OpenCV |
 | | [**02_SwiftDeck**](https://github.com/KwangBeomPark/02_SwiftDeck) | **Centrum operacyjne FinOps i zamknięcia miesiąca**<br>Standaryzuje ścieżki zamknięcia, foldery JPK_V7/VAT i zapytania SQL za pomocą lekkiego interfejsu skrótów klawiszowych dla zespołu. | AutoHotkey v2 · Przenośne INI |
-| **II. Kontrola wewnętrzna i gotowość do audytu** | [**08_OutlookTemplate**](https://github.com/KwangBeomPark/08_OutlookTemplate) | **Nadzór nad matrycą akceptacji (30 000 PLN) i DW**<br>Wymusza poziomy zatwierdzeń (Kierownik vs CFO) i automatycznie wypełnia treść HTML, zapobiegając pominięciu kluczowych odbiorców w korespondencji. | AutoHotkey v2 · COM / UI Automation |
+| **II. Kontrola wewnętrzna i gotowość do audytu** | [**08_OutlookTemplate**](https://github.com/KwangBeomPark/08_OutlookTemplate) | **Nadzór nad matrycą akceptacji i DW**<br>Wymusza poziomy zatwierdzeń (Kierownik vs CFO) i automatycznie wypełnia treść HTML, zapobiegając pominięciu kluczowych odbiorców w korespondencji. | AutoHotkey v2 · COM / UI Automation |
 | | [**05_FileOperation**](https://github.com/KwangBeomPark/05_FileOperation) | **Archiwizacja dowodów audytowych i synchronizacja**<br>Zachowuje pierwotne znaczniki czasu (timestamp) plików i automatyzuje dystrybucję dokumentów na potrzeby ścieżki audytu (Audit Trail). | Python · PySide6 · Office COM |
 | | [**07_eml-viewer**](https://github.com/KwangBeomPark/07_eml-viewer) | **Bezpieczna przeglądarka dowodów e-mail (Sandbox)**<br>Otwiera pliki `.eml` i `.msg` niezależnie od pakietu Office, wiernie renderując treść HTML i blokując zewnętrzne piksele śledzące. | Python · PySide6 · Qt WebEngine |
 | | [**01_ClipOCR-Pro**](https://github.com/KwangBeomPark/01_ClipOCR-Pro) | **Lokalny OCR i uzgadnianie dokumentów źródłowych**<br>Lokalne przechwytywanie ekranu i wielojęzyczny OCR (PL/EN/KO) bez chmury, wspierający uzgadnianie danych między systemem ERP a wyciągami i fakturami. | AutoHotkey v2 · Windows OCR |
@@ -79,7 +79,7 @@ Pakiet **PL Suite (01–08)** oraz platformy analityczne tworzą zintegrowany ek
 - **Języki**:
   - **Koreański (Korean)**: Język ojczysty (Native)
   - **Angielski (English)**: Płynny / Profesjonalny biznesowy (Fluent / Business)
-  - **Polski (Polish)**: Roboczy profesjonalny (Professional Working Proficiency - codzienna komunikacja operacyjna, terminologia podatkowa i handlowa)
+  - **Polski (Polish)**: Podstawowy (Basic)
 
 ---
 

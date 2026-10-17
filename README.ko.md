@@ -39,7 +39,7 @@
 | **I. 결산 가속화 및 장부 정합성** | [**04_DataRefinery**](https://github.com/KwangBeomPark/04_DataRefinery) | **인프로세스 DuckDB OLAP & 유럽식 소수점 가드**<br>유럽식 쉼표 소수점(`12,34` vs `12.34`) 오인식으로 인한 수치 왜곡을 원천 방지하고, 복잡한 프로모션 데이터를 정제하여 결산용 마스터 데이터를 완성합니다. | Python · PySide6 · DuckDB |
 | | [**06_Stepwise**](https://github.com/KwangBeomPark/06_Stepwise) | **안전 가드 기반 ERP / SAP GUI 전표 입력 엔진**<br>OpenCV 컴퓨터 비전 상태 확인을 통해 단순 반복 분개 전표 및 마스터 입력을 자동화하며, 오기입과 중복 전기를 원천 차단합니다. | Python · PySide6 · OpenCV |
 | | [**02_SwiftDeck**](https://github.com/KwangBeomPark/02_SwiftDeck) | **FinOps & 월말 결산 오퍼레이션 커맨드 센터**<br>월말 결산 경로, VAT 23% 신고 폴더, ERP SQL 쿼리 시퀀스를 단축키 메뉴로 표준화하여 팀원들의 반복 공수와 경로 착오를 제거합니다. | AutoHotkey v2 · 포터블 INI |
-| **II. 내부 통제 및 감사 대응** | [**08_OutlookTemplate**](https://github.com/KwangBeomPark/08_OutlookTemplate) | **전결 규정(30,000 PLN) 준수 & 참조(CC) 통제 엔진**<br>팀장 전결(30,000 PLN 이하)과 임원 결재선을 구분 적용하고 표준 본문 서식을 채워, 핵심 이해관계자 참조 누락 사고를 방지합니다. | AutoHotkey v2 · COM / UI Automation |
+| **II. 내부 통제 및 감사 대응** | [**08_OutlookTemplate**](https://github.com/KwangBeomPark/08_OutlookTemplate) | **전결 규정 준수 & 참조(CC) 통제 엔진**<br>팀장 전결과 임원 결재선을 구분 적용하고 표준 본문 서식을 채워, 핵심 이해관계자 참조 누락 사고를 방지합니다. | AutoHotkey v2 · COM / UI Automation |
 | | [**05_FileOperation**](https://github.com/KwangBeomPark/05_FileOperation) | **감사 증빙 아카이빙 & 자동 폴더 배분 허브**<br>포맷 변환 시 원본 파일의 타임스탬프를 무손실 보존하고, 일일 증빙 분류 및 동기화를 자동화하여 회계 감사 추적성을 확보합니다. | Python · PySide6 · Office COM |
 | | [**07_eml-viewer**](https://github.com/KwangBeomPark/07_eml-viewer) | **이메일 증빙 샌드박스 & 안전 열람 뷰어**<br>Office 설치 없이도 독립 실행형으로 `.eml` 및 `.msg` 증빙을 원본 레이아웃 그대로 왜곡 없이 열람하고, 원격 트래커를 차단하며 안전하게 포워딩합니다. | Python · PySide6 · Qt WebEngine |
 | | [**01_ClipOCR-Pro**](https://github.com/KwangBeomPark/01_ClipOCR-Pro) | **온디바이스 OCR & 전표·증빙 실시간 대사기**<br>클라우드 반출 없는 로컬 캡처 및 다국어(한/영/폴) OCR을 통해 이기종 ERP 화면과 은행 전표 간의 상호 대사(Reconciliation)를 신속 지원합니다. | AutoHotkey v2 · Windows OCR |
@@ -79,7 +79,7 @@
 - **사용 언어**:
   - **한국어 (Korean)**: 모국어 (Native)
   - **영어 (English)**: 유창함 (Fluent / Professional Business)
-  - **폴란드어 (Polish)**: 실무 커뮤니케이션 가능 (Professional Working Proficiency - 일상 업무 조율, 세무/법률 실무 용어)
+  - **폴란드어 (Polish)**: 기초 (Basic)
 
 ---
 

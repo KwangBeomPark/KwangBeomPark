@@ -39,7 +39,7 @@ The **PL Suite (01–08)** and extended intelligence platforms represent an inte
 | **I. Close Acceleration & Ledger Integrity** | [**04_DataRefinery**](https://github.com/KwangBeomPark/04_DataRefinery) | **In-Process DuckDB OLAP & European Decimal Guard**<br>Eliminates European decimal point/comma errors (`12,34` vs `12.34`) and normalizes complex promotion datasets for clean period-end settlement. | Python · PySide6 · DuckDB |
 | | [**06_Stepwise**](https://github.com/KwangBeomPark/06_Stepwise) | **Guarded ERP / SAP GUI Posting Engine**<br>Automates repetitive journal voucher and master data entry with OpenCV visual verification, preventing keying mistakes and duplicate postings. | Python · PySide6 · OpenCV |
 | | [**02_SwiftDeck**](https://github.com/KwangBeomPark/02_SwiftDeck) | **FinOps & Month-End Close Command Center**<br>Standardizes monthly close paths, VAT 23% reporting folders, and ERP SQL query shortcuts via a lightweight team hotkey interface. | AutoHotkey v2 · Portable INI |
-| **II. Internal Controls & Audit Readiness** | [**08_OutlookTemplate**](https://github.com/KwangBeomPark/08_OutlookTemplate) | **Delegation of Authority (30,000 PLN) & CC Guard**<br>Enforces executive approval routing (Team Lead vs CFO) and pre-populates standardized HTML bodies to prevent omitted stakeholder copies. | AutoHotkey v2 · COM / UI Automation |
+| **II. Internal Controls & Audit Readiness** | [**08_OutlookTemplate**](https://github.com/KwangBeomPark/08_OutlookTemplate) | **Delegation of Authority & CC Guard**<br>Enforces executive approval routing (Team Lead vs CFO) and pre-populates standardized HTML bodies to prevent omitted stakeholder copies. | AutoHotkey v2 · COM / UI Automation |
 | | [**05_FileOperation**](https://github.com/KwangBeomPark/05_FileOperation) | **Audit Evidence Archiving & Automated Folder Sync**<br>Preserves original file timestamps during format conversion and automates folder routing for accounting audit trails. | Python · PySide6 · Office COM |
 | | [**07_eml-viewer**](https://github.com/KwangBeomPark/07_eml-viewer) | **Email Evidence Sandbox & Inspection Viewer**<br>Opens `.eml` and `.msg` evidence independently of Office licenses, rendering HTML bodies faithfully while blocking remote tracking beacons. | Python · PySide6 · Qt WebEngine |
 | | [**01_ClipOCR-Pro**](https://github.com/KwangBeomPark/01_ClipOCR-Pro) | **On-Device OCR & Voucher Reconciliation**<br>Zero-cloud local screen capture and multi-language OCR (EN/KO/PL) for reconciling ERP screens against bank statements and invoices. | AutoHotkey v2 · Windows OCR |
@@ -79,7 +79,7 @@ The **PL Suite (01–08)** and extended intelligence platforms represent an inte
 - **Languages**:
   - **Korean**: Native
   - **English**: Fluent / Professional Business
-  - **Polish**: Professional Working Proficiency (Daily operational communications, tax & legal terminology)
+  - **Polish**: Basic
 
 ---
 
